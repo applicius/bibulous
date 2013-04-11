@@ -24,7 +24,7 @@ class MyTest {
 
 ### Maven
 
-In Maven project, you can make sure Bibulous dependency is resolved 
+In a Maven project, you can make sure Bibulous dependency is resolved 
 adding following section in the POM:
 
 ```xml
@@ -57,4 +57,4 @@ adding following section in the POM:
 
 ## Build
 
-Bibulous is built using Maven 2/3+.
+Bibulous is built using Maven 2/3+: `mvn -U clean install`
