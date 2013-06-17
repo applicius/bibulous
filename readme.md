@@ -4,7 +4,7 @@ This is a extension framework for JUnit 4.7+.
 
 ## Usage
 
-In your Java test class:
+In your Java test class `@RunWith` and `@TestDoc` annotations.
 
 ```java
 import org.junit.runner.RunWith;
