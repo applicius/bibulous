@@ -57,4 +57,4 @@ adding following section in the POM:
 
 ## Build
 
-Bibulous is built using Maven 2/3+: `mvn -U clean install`
+Bibulous is built using Maven 3+: `mvn -U clean install`
