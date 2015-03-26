@@ -32,9 +32,9 @@ adding following section in the POM:
   <!-- ... -->
   <repositories>
     <repository>
-      <id>applicius-releases</id>
-      <name>Applicius Maven2 Releases Repository</name>
-      <url>https://raw.github.com/applicius/mvn-repo/master/releases/</url>
+      <id>tatami-releases</id>
+      <name>Tatami Releases Repository</name>
+      <url>https://raw.github.com/cchantep/tatami/master/releases/</url>
     </repository>
 
     <!-- ... -->
@@ -42,7 +42,7 @@ adding following section in the POM:
 
   <dependencies>
     <dependency>
-      <groupId>fr.applicius</groupId>
+      <groupId>bibulous</groupId>
       <dependency>bibulous</dependency>
       <version>1.0</version>
       <scope>test</scope>
